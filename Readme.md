@@ -31,11 +31,7 @@ Dataset used: [kc_house_data.csv](https://www.kaggle.com/datasets/harlfoxem/hous
 
 ---
 
-## 🖥️ Web App Preview
 
-![Screenshot](screenshot.png)
-
----
 
 ## 🛠️ How to Run Locally
 
